@@ -19,3 +19,11 @@ Checking the selected series directory and identify the last opend episode, and 
 when you run the script:
 >you can decied if you just wanna play old series or add new one\
 >if you choose to add new one it run a different script to allow inserting the new series required parameters
+
+## References 
+ 
+**python** 
+
+- https://thispointer.com/python-how-to-get-last-access-creation-date-time-of-a-file/ 
+- https://docs.python.org/2/library/platform.html
+- https://docs.python.org/2/library/os.html#os.stat
